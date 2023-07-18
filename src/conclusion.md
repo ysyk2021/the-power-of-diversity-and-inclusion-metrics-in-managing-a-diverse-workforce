@@ -1,8 +1,5 @@
 # Conclusion
 
-Chapter 10: Conclusion
-======================
-
 Chapter 10 of "The Power of Diversity and Inclusion Metrics in Managing a Diverse Workforce" provides a conclusion to the book. This chapter will recap the key points covered throughout the book and offer final thoughts on the power of diversity and inclusion metrics in managing a diverse workforce.
 
 Sub Chapters:
