@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Importance of Diversity and Inclusion Metrics](chapter-1-1.md)
-  - [Overview of the Book](chapter-1-2.md)
 - [Chapter 2: Understanding Diversity and Inclusion Metrics](chapter-2.md)
   - [Definition of Diversity and Inclusion Metrics](chapter-2-1.md)
   - [Benefits of Diversity and Inclusion Metrics](chapter-2-2.md)
