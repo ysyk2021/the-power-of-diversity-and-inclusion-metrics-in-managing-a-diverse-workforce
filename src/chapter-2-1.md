@@ -30,4 +30,4 @@ Inclusion metrics focus on assessing the extent to which individuals from divers
 
 ### Conclusion
 
-Diversity and inclusion metrics form the foundation for managing a diverse workforce effectively. By implementing comprehensive measurement systems, organizations can identify areas of improvement, track progress, and hold themselves accountable for creating an inclusive environment. The next chapter will explore various methodologies and best practices for developing and implementing diversity and inclusion metrics within organizations.
+Diversity and inclusion metrics form the foundation for managing a diverse workforce effectively. By implementing comprehensive measurement systems, organizations can identify areas of improvement, track progress, and hold themselves accountable for creating an inclusive environment.
