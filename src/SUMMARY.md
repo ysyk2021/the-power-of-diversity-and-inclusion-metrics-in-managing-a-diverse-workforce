@@ -22,7 +22,6 @@
   - [Common Obstacles to Diversity and Inclusion Metrics](chapter-6-1.md)
   - [Strategies for Overcoming Challenges](chapter-6-2.md)
 - [Chapter 7: Case Studies of Successful Diversity and Inclusion Metrics Implementation](chapter-7.md)
-  - [Real-life Examples of Companies and Leaders who have Successfully Managed a Diverse Workforce through Metrics](chapter-7-1.md)
 - [Chapter 8: Ethical Considerations in Diversity and Inclusion Metrics](chapter-8.md)
   - [Understanding Ethical Guidelines and Standards](chapter-8-1.md)
   - [Balancing Diversity with Other Business Goals](chapter-8-2.md)
