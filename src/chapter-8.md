@@ -1,5 +1,3 @@
-Chapter 8: Ethical Considerations in Diversity and Inclusion Metrics
-====================================================================
 
 This chapter highlights the importance of understanding ethical guidelines and standards, balancing diversity with other business goals, and addressing potential risks and consequences of diversity and inclusion metrics.
 

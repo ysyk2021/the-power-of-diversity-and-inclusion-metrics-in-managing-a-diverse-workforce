@@ -1,5 +1,3 @@
-Chapter 3: Principles of Diversity and Inclusion Management
-===========================================================
 
 This chapter explains how to create a culture of inclusion and empowerment, leverage diversity for business success, and address unconscious bias and stereotyping.
 

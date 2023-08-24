@@ -1,4 +1,3 @@
-# Definition of Diversity and Inclusion Metrics
 
 In today's globalized and interconnected world, organizations recognize the importance of diversity and inclusion in building a successful and thriving workforce. To effectively manage diversity and foster an inclusive environment, it is essential to establish robust metrics that measure progress and guide decision-making processes. This chapter aims to provide a comprehensive understanding of diversity and inclusion metrics, their definition, and their significance in managing a diverse workforce.
 

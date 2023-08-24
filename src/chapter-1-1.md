@@ -1,5 +1,3 @@
-Importance of Diversity and Inclusion Metrics
-======================================================
 
 In today's dynamic global workforce, organizations are recognizing the significant role that diversity and inclusion play in driving success and fostering innovation. To effectively manage a diverse workforce, it is crucial to establish and measure diversity and inclusion metrics. These metrics provide valuable insights into the progress made in creating an inclusive environment and help organizations make informed decisions to drive positive change.
 

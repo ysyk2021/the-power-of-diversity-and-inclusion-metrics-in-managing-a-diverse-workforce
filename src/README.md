@@ -1,4 +1,3 @@
-# Introduction
 
 The workplace is becoming increasingly diverse, and organizations must adapt to effectively manage a diverse workforce. Diversity and inclusion metrics are essential tools for promoting diversity and inclusion in the workplace, tracking progress towards goals, and making data-driven decisions.
 

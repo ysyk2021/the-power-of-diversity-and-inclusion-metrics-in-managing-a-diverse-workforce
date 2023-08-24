@@ -1,7 +1,3 @@
-Developing Metrics Literacy as a Leader
-================================================
-
-
 
 In today's diverse and inclusive workplaces, leaders play a crucial role in driving organizational success. One essential aspect of effective leadership is having a strong understanding of metrics and their significance in managing a diverse workforce. This chapter explores the importance of developing metrics literacy as a leader and provides practical guidance on how to enhance this skillset.
 

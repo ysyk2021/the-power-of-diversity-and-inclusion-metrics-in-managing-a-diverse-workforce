@@ -1,5 +1,3 @@
-Qualitative and Quantitative Methods for Evaluation
-============================================================
 
 In today's dynamic and diverse workforce, it is crucial for organizations to effectively measure the impact of their diversity and inclusion initiatives. This chapter explores the importance of utilizing both qualitative and quantitative methods for evaluating the success of such programs.
 

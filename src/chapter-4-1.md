@@ -1,4 +1,3 @@
-# Key Performance Indicators (KPIs) for Measuring Diversity and Inclusion
 
 In this chapter, we will explore the key performance indicators (KPIs) that organizations can use to measure and track diversity and inclusion initiatives. These KPIs provide quantifiable metrics that help assess progress, identify gaps, and drive meaningful change. By selecting and monitoring the right KPIs, organizations can gain valuable insights into their diversity and inclusion efforts. Let's delve into some commonly used KPIs for measuring diversity and inclusion.
 

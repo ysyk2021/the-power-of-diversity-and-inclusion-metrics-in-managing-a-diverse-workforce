@@ -1,5 +1,3 @@
-Chapter 2: Understanding Diversity and Inclusion Metrics
-========================================================
 
 This chapter defines diversity and inclusion metrics, highlights their benefits, and dispels common myths about them.
 

@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Chapter 1 of "The Power of Diversity and Inclusion Metrics in Managing a Diverse Workforce" provides an introduction to the importance of diversity and inclusion metrics in managing a diverse workforce. This chapter also provides an overview of the book.
 

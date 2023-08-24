@@ -1,7 +1,3 @@
-Aligning Metrics with Business Goals
-=============================================
-
-
 
 In today's competitive business landscape, organizations recognize the power of diversity and inclusion in driving success. To effectively manage a diverse workforce, it is crucial to align metrics with the goals of the business. This chapter will explore the importance of aligning metrics with business objectives and provide guidelines for creating meaningful diversity and inclusion metrics.
 

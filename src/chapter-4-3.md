@@ -1,5 +1,3 @@
-Identifying Relevant Metrics for Your Organization
-===========================================================
 
 In this chapter, we will explore the importance of identifying relevant metrics for managing a diverse workforce within your organization. Metrics play a crucial role in measuring progress, tracking performance, and evaluating the effectiveness of diversity and inclusion initiatives. By establishing meaningful metrics, organizations can gain valuable insights into their diversity efforts and make informed decisions to promote a more inclusive work environment.
 

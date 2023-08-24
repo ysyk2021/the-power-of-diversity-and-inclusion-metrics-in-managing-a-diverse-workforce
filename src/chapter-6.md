@@ -1,5 +1,3 @@
-Chapter 6: Overcoming Obstacles to Diversity and Inclusion Metrics
-==================================================================
 
 This chapter provides strategies for overcoming these challenges and promoting progress towards diversity and inclusion goals.
 

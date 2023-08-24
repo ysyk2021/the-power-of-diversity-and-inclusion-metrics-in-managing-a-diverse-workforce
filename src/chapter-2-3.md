@@ -1,5 +1,3 @@
-Common Myths About Diversity and Inclusion Metrics
-===========================================================
 
 In this chapter, we will explore and debunk some common misconceptions surrounding diversity and inclusion metrics. By understanding these myths, organizations can adopt a more informed approach to measuring and managing their diverse workforce.
 

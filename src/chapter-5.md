@@ -1,5 +1,3 @@
-Chapter 5: Using Metrics for Data-Driven Decision Making
-========================================================
 
 This chapter highlights the importance of analyzing metrics to identify areas of improvement, developing actionable strategies and plans, and tracking progress towards diversity and inclusion goals.
 

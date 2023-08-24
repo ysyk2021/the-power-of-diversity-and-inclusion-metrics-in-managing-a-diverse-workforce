@@ -1,5 +1,3 @@
-Chapter 4: Measuring Diversity and Inclusion
-============================================
 
 This chapter highlights the importance of measuring progress towards diversity and inclusion goals, and provides guidance on how to identify relevant metrics for your organization.
 
