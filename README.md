@@ -1,3 +1,6 @@
+# The Power of Diversity and Inclusion Metrics in Managing a Diverse Workforce
+
+Book Link: [https://zhengpublishing.com/the-power-of-diversity-and-inclusion-metrics-in-managing-a-diverse-workforce/](https://zhengpublishing.com/the-power-of-diversity-and-inclusion-metrics-in-managing-a-diverse-workforce/)
 
 The workplace is becoming increasingly diverse, and organizations must adapt to effectively manage a diverse workforce. Diversity and inclusion metrics are essential tools for promoting diversity and inclusion in the workplace, tracking progress towards goals, and making data-driven decisions.
 
